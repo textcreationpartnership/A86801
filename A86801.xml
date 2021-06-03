@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the inhabitants of the county of Hertford to his Majesty. With his Maiesties gracious answer thereunto. Also, the humble petition of the inhabitants of the county of Bedford, to the Kings most excellent Majesty. With his Maiesties gracious answer thereunto.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86801</idno><idno type="EEBO-CITATION">99871372</idno>
+  <idno type="VID">123782</idno>
+  <idno type="EEBO-PROQUEST">2248519276</idno>
+  
+            <idno type="STC">Wing H3522</idno>
+            <idno type="STC">Thomason E84_39</idno>
+            <idno type="STC">ESTC R212804</idno>
+            <idno type="PROQUEST">99871372</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871372e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the inhabitants of the county of Hertford to his Majesty. With his Maiesties gracious answer thereunto. Also, the humble petition of the inhabitants of the county of Bedford, to the Kings most excellent Majesty. With his Maiesties gracious answer thereunto.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Januar. 7. By Leonard Lichfield, printer to the Univerty [sic],</publisher>
+                  <pubPlace>Printed by his Majesties command, at Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reprint of Wing H3519, with the Bedford petition added.</note>
+                  <note>In spite of the particularity of the imprint, most of the ornaments are unknown at Oxford, nor would the carelessness of "Univerty" on the title-page have been allowed by the University printer--Madan.</note>
+                  <note>Annotation on Thomason copy: "at Lond: Jan 11th".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Hertfordshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Bedfordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123782:1"/>
+            <p>THE HUMBLE PETITION OF The Inhabitants of the County of <hi>Hertford</hi> to His Majesty.</p>
+            <p>WITH HIS MAIESTIES Gracious Answer thereunto.</p>
+            <p>ALSO, The humble Petition of the Inhabi<g ref="char:EOLhyphen"/>tants of the County of <hi>Bedford,</hi> to the Kings most Excellent Majesty.</p>
+            <p>
+               <hi>With his Majesties Gracious Answer thereunto.</hi>
+            </p>
+            <p>Printed by His Majesties command, at <hi>OXFORD,</hi> Januar. 7.</p>
+            <p>By <hi>Leonard Lichfield,</hi> Printer to the Univerty. <add>at Lond. Jan 11<seg rend="sup">th</seg>
+               </add> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:123782:2"/>
+            <pb facs="tcp:123782:2"/>
+            <head>
+               <hi>To the KINGS most Excellent Majesty,</hi> The humble Petition of Your Majesties Subjects within Your County of <hi>Hertford.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most Loyall Subjects and Petitioners gi<g ref="char:EOLhyphen"/>ving your Majesty most humble thanks for the many good Laws you have lately granted, and also for Your gracious profession to maintain the Protestant Religi<g ref="char:EOLhyphen"/>on; and seriously considering the great distractions and distempers of this Your Kingdome, and the danger wherein it (with Your own Royal Person) now standeth; as also being very sen<g ref="char:EOLhyphen"/>sible of the great effusion of blood, lately made betwixt Your Majesties Own Subjects, and of the great calamities likely to ensue upon this un<g ref="char:EOLhyphen"/>naturall and civill War, unlesse by your Majesties clemency and mercy it be forthwith stayed, your Subjects being in short time likely to fall into great misery and want, as wel by reason of the decay of trading, as also by the violence and rapine of unruly and dissolute multitudes which hope to raise themselves by the ruine of your Majesties good Subjects.</p>
+            <p>Therefore your Majesties Subjects and Petitioners do in all humi<g ref="char:EOLhyphen"/>lity addresse themselves unto your Royall Majesty, earnestly desiring, that all hostility may cease, and that some means of Accomodation and Peace may be obtained, whereby Gods honour, and the true Pro<g ref="char:EOLhyphen"/>testant Religion may be maintained, Your Majesties sacred Person, Honour, and Estate preserved, and your Parliaments just Priviledges,
+<pb facs="tcp:123782:3"/>with the Laws of this Your Realm upheld and put in execution, that so your people being f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed from their feares, and s cured in their E<g ref="char:EOLhyphen"/>states, may with hand and heart testifie their obedience both to God and their King.</p>
+            <closer>
+               <signed>And your Subjects shal daily pray for Your Maiesties long and happy Reign over us.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <head>His Majesty hath expresly commanded me to give this His <hi>Answer</hi> to this <hi>Petition.</hi>
+            </head>
+            <p>HIs Majesty graciously accepts the acknowledgement of the Petition<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, and is very glad, that in a County, so neer the violence which hath soug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to oppress<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> His Majesty, and where so great industry hath been used to cor<g ref="char:EOLhyphen"/>rupt his good Subjects, and to infuse into them thoughts and resolutions of disloyalty against Him there is yet so gratefull a sence of His Majesties justice, and so true a sense of the calami<g ref="char:EOLhyphen"/>ties of the Kingdom. And His Majesty assures the Petitioners, that He so far concurs with them in all their requests, that they do not more desire to receive, then His Majesty doth to grant all they aske of him.</p>
+            <p>Of the present distractions and dis<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empers, in w<seg rend="sup">ch</seg> the Petitio<g ref="char:EOLhyphen"/>ners expresse an honest and loyal care of the safety of His Ma<g ref="char:EOLhyphen"/>jesties Person, (a thing so far from being of late regarded, that God onely hath preserved Him from being destroyed by the bloody hands of rebels,) His Majesty doubts not but the Peti<g ref="char:EOLhyphen"/>tioners know from what fountain they have sprung, and by the grievances and pressures exercised upon their own County, in which His Majesty cannot be suspected to have the least hand, so much as by accident, wil quickly discern, that when that part of the Law which should defend His Majesty is so easily maste<g ref="char:EOLhyphen"/>red,
+<pb facs="tcp:123782:3"/>&amp; trodden drown, the other part which should secure His Subjects wil insensibly moulder away, and give them up to the same violence; And that when they shal too inconsiderately looke upon the publique sufferings, they doe but invite prosperous ill instruments to bring the misery home to their own doores.</p>
+            <p>That al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hostility may cease, cease for ever, and a blessed and happy Accomodation and Peace be made, that Gods honour, and the Protestant Religion may be maintained, that the just Priviledges of Parliament, and the Laws of the Land may be upheld and put in execution, that so His good people may be freed from their feares, and secured in their estates, is not, cannot be more the wish and prayer of the Petitioners, then it is the earnest and incessant endeavour of His Majesty. And when the Petitioners remember, that His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es com<g ref="char:EOLhyphen"/>passion of the miseries of a civil War, kept him so long from endeavouring to raise an Army, that He was almost swallowed up by a desperate rebellion, and nothing but the immediate hand of God could have supplied Him with men, armes, or money for His defence; and when they consider the strange licence given or countenanced in the exercise of religion, the scorn and contempt the very Protestant Religion it self suffers by <hi>Brownists, Anabaptists</hi> and <hi>Sectaries,</hi> (who in truth have de<g ref="char:EOLhyphen"/>stroyed the civil Peace too;) when they look upon the strange Invasion upon the freedom and priviledge of Parliament, by the violence and faction of such men, and see the Lawes of the Land with a lowd voyce vilified and trampled upon, they must confesse, 'tis no more in His Majesties power to satisfie the Petitioners in their most just desires, then to preserve His Own person, Honour, and Estate from that fury which threa<g ref="char:EOLhyphen"/>tens that, and all the rest, and that what the Petitioners now aske, is the only Argument of His Majesties taking up just, ne<g ref="char:EOLhyphen"/>cessary, and desensive armes.</p>
+            <pb facs="tcp:123782:4"/>
+            <p> But if the Petitioners shal joyn with His Majesty, and assist Him to assist them; if they shal resolve to defend the known Laws of the Land (as the onely excellent rule) and not to sub<g ref="char:EOLhyphen"/>mit to any extravagant, arbitrary power whatsoever; If they shal set a true prize upon their religion, (sealed with the blood of so many glorious ma<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>) and on the behalfe of it, protest against all the distempers o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Brownists, Anabaptists,</hi> and <hi>Secta<g ref="char:EOLhyphen"/>ries;</hi> If they shal help His Majesty to reduce the whole Fabrick of Church and State according to the modell of Qu. <hi>Elizabeths</hi> time, (solong and seriously proposed by His Majesty) in which the foundations were laid of all that happines and glory, which the whole Nation injoyed so many yeeres after, and to which His Majesty hath made so great an Addition of excellent Laws; His Majesty doubts not that any Faction shall prevaile against them, but that other Counties, following the example of the Petitioners, in short time his Majesty, the Petitioners, and the whole Kingdome, will finde the accomplishment of all that is desired by this Petition.</p>
+            <closer>
+               <signed>FALKLAND.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:123782:4"/>
+            <head>
+               <hi>To the KINGS most excellent Majesty.</hi> The humble Petition of divers of Your Majesties loyall Subjects inhabiting the County of <hi>Bedford,</hi> amoun<g ref="char:EOLhyphen"/>ting to the number of 3800.</head>
+            <opener>Most humbly SHeweth</opener>
+            <p>unto your Majesty, Th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are the miseries your Subjects suffer, and their feares are beyond their miseries. We are not able to relate what unsp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akable Calamiti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, a Warre, much more a Civill-Warre, and that in the bowels of your Kingdome, will inevitably produce, your Majesty having bin lately a sad spectator of some unhappy effects thereof; be<g ref="char:EOLhyphen"/>sides continuall fears and perplexities, decay of trade and tillage, exhausting of Treasure; impoverishing of your Subjects, and dispeopling of your Land, whereby it may lye open to Forraine Invasion, and your Subjects disabled to defend your Kingdome; Pestilence and Famine being the undoubted conse<g ref="char:EOLhyphen"/>quences of such a warre in which those of the nearest relations are likely to im<g ref="char:EOLhyphen"/>brew their hands in each others blood, and the whole Kingdome (like a distract<g ref="char:EOLhyphen"/>ed man) lay violent hands upon it selfe. Your Majesty hath bin gratiously pleased to declare your sence of those heavy pressures under which your Sub<g ref="char:EOLhyphen"/>jects groned before this Parliament: And not to acknowledge with due thanks your Majesties Acts of grace in the removall of some and promise of remedy for the rest, were the highest point of ingratitude, especially considering your Majesties frequent and solemne professions to that effect divulged to the world. Now amongst the miserable Calamities which yet remaine without remedy, the difference betwixt your Majesty and your great Counsell (the Parlia<g ref="char:EOLhyphen"/>ment) is the greatest, as that indeed which blocks up the way, that should lead to the remedy of all the rest: pardon therefore your distressed Subiects, (most Gracious Soveraigne) if in these heavy times they become your most humble (though importunate) Petitioners, That your Majesty abandoning all jealou<g ref="char:EOLhyphen"/>sies would be pleased to lend a gracious Eare to such Propositions as your Par<g ref="char:EOLhyphen"/>liament shall present, tending to your Maiesties Honour, the establishment of the true Protestant Religion, the Freedom and Priviledge of Parliament, and the future good of the Common-wealth; by this the wrath of God may be ap<g ref="char:EOLhyphen"/>peased, his Iudgements averted, the peace of Church and State procured, Gods true Religion maintained, your Maiesties Royall Throne established, and your Subiects may more cheerefully, without distraction, yeeld unto you (as by their Allegiance they are bound) all due Obedience and Subiection. These are the earnest desires of your most humble Suppliants, who daily pray for your Maiesties safety, and the peace of all your Kingdomes,</p>
+            <closer>
+               <pb facs="tcp:123782:5"/>
+               <dateline>At the Court at <hi>Oxford</hi>
+                  <date>the 24 of Decemb. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <head>His <hi>Majesty</hi> hath graciously considered this Petition, and hath commanded me to return this <hi>His Answer.</hi>
+            </head>
+            <p>THat He sully concurs with the Petitioners i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their sense of the present Distractions and Cala<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ies of this Kingdome, the prevention whereof His Majesty hath so much laboured, that well foreseeing the miseries of a Civil-Warre, Himselfe (notwithstanding so many provocations, w ll known to the Petitioners, and to all the World) forbore to raise an Army for his defence, till He was almost swallowed up by a desperate and unnaturall rebelli<g ref="char:EOLhyphen"/>on. What He hath done since, towards the removing those horrid preparations, and dissolving the Clouds of jealousies and discontent, by His severall Messages, to invite and desire a Treaty, and how those Messages have been entertained, is wel and generally known too. And if the care of others had been as great in the observation and execution of the Lawes, as His Majesty hath been to make such Lawes, The Peace and Security of the Kingdom had not been now disturbed, neither would it have been in the Power of a few furious Persons to have raised this misunderstanding between His Great Councell and His Majesty. And there<g ref="char:EOLhyphen"/>fore the Petitioners shall do wel (not being deterted by the reception other Pe<g ref="char:EOLhyphen"/>titions have found) to apply themselves to both Houses of Parliament, for com<g ref="char:EOLhyphen"/>posing the present Distempers; And if they can prevaile with them to make such Propositions to His Majesty, as He may in Honour and Iustice consent to, That is, such Propositions as may tend to the establishment of the true Protestant Religi<g ref="char:EOLhyphen"/>on, the Laws of the Land, His Majesties just Rights, the Liberty and Property of the Subiect, and the just Priviledges of Parliament; If His Maiesty consent not to them, He is contented to be thought a Promoter of this present War. But if no such Propositions shal be made to Him, (all His desires that such should be made having been reiected) He hopes the Petitioners, and all the World will be easily disabused, and will not suffer them, who have raised and do foment this odious Civil-war, to lay the Envy, and impute the Miseries of this War upon His Maie<g ref="char:EOLhyphen"/>sty, whose heart bleeds at the sufferings of His People.</p>
+            <closer>
+               <signed>EDW. NICHOLAS.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
